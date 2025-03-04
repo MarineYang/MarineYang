@@ -15,7 +15,7 @@
 - **C++**: 시스템 프로그래밍 및 성능 최적화
 
 ## 📚 프로젝트
-- **[sukusuku_kankoku](https://github.com/MarineYang/sukusuku_kankoku)**: 라인 메시지 API를 이용한 한국어 학습 챗봇 개발
+- **[sukusuku_kankoku](https://github.com/MarineYang/sukusuku_kankoku)**: 라인 메시지 API를 이용한 한국어 학습 챗봇 개발 (진행중)
 - **[SkipList](https://github.com/MarineYang/SkipList)**: LinkedList를 기반으로 한 SkipList 구현
 - **[IOCP_Server_Client](https://github.com/MarineYang/IOCP_Server_Client)**: IOCP 서버 예제
 - **[fast_api](https://github.com/MarineYang/fast_api)**: Python FastAPI 프레임워크 활용
