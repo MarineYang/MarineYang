@@ -20,6 +20,6 @@
 - **[IOCP_Server_Client](https://github.com/MarineYang/IOCP_Server_Client)**: IOCP 서버 예제
 - **[fast_api](https://github.com/MarineYang/fast_api)**: Python FastAPI 프레임워크 활용
 
-## 🌱 현재 배우고 있는 것
+## 🌱 현재 공부하고 있는 것
 - AI
 - 분산 시스템 설계
