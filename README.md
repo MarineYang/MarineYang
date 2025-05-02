@@ -25,7 +25,7 @@
 - AI
 - 분산 시스템 설계
 
-## 🌱 주력언어
+## 🔥 주력언어
 - Golang
 - Python
 - Typescript
