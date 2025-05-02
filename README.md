@@ -16,8 +16,8 @@
 - **C#**: ASP.NET Core 백엔드 서버 개발
 
 ## 📚 프로젝트
+- **[C# ASP.NET Core](https://github.com/MarineYang/dot.net_restapi)**: 단순 1:1 카드게임 REST API 서버 개발
 - **[SUKUSUKU_kankoku](https://github.com/MarineYang/sukusuku_kankoku)**: 라인 메시지 API를 이용한 한국어 학습 챗봇 개발
-- **[C# ASP.NET Core]([https://github.com/MarineYang/dot.net_restapi])**: 단순 1:1 카드게임 REST API 서버 개발
 - **[Fast_api](https://github.com/MarineYang/fastapi_server)**: Python FastAPI 서버 프레임워크 
 - **[Asp.net core](https://github.com/MarineYang/dot.net_restapi)**: Asp.net core 서버 프레임워크
 - **[SkipList](https://github.com/MarineYang/SkipList)**: LinkedList를 기반으로 한 SkipList 구현
